@@ -34,7 +34,7 @@ The model is trained on a 500-sample subset and evaluated on 100 samples for fas
 - Task: Binary sentiment classification
 - Max sequence length: 128
 - Optimizer: AdamW (via Trainer)
-- Epochs: 2
+- Epochs: 10
 
 ---
 
